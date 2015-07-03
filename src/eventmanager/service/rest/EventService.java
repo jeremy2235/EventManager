@@ -17,6 +17,18 @@ import eventmanager.service.redis.RedisService;
 
 /**
  * @author JLHERMIT
+ * 
+ *
+   {
+	  "id": 2,
+	  "nom": "name",
+	  "adresse": "toto",
+	  "dateHeureDebut": "lundi",
+	  "dateHeureFin": "mardi",
+	  "login": null,
+	  "publish": null,
+	  "url": null
+	}
  *
  */
 @Path("/event")
